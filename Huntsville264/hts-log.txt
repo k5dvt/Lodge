@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 17 Jun 2023 16:57:20 at http://www.huntsville364.org +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.huntsville364.org -O1 "C:\My Web Sites\Huntsville264" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:03:46	Warning: 	file not stored in cache due to bogus state (broken size, expected 5104349 got 1782330): www.huntsville364.org/The Huntsville Massacre ppt.pdf
+17:08:57	Warning: 	Retry after error -4 (Incorrect length (559738 Bytes, 672856 expected)) at link www.huntsville364.org/img/masonic_altar.png (from www.huntsville364.org/)
+17:09:15	Error: 	"Not Found" (404) at link www.huntsville364.org/fonts/glyphicons-halflings-regular.eot (from www.huntsville364.org/css/bootstrap.min.css)
+17:09:15	Error: 	"Not Found" (404) at link www.huntsville364.org/fonts/glyphicons-halflings-regular.eot? (from www.huntsville364.org/css/bootstrap.min.css)
+17:09:15	Error: 	"Not Found" (404) at link www.huntsville364.org/fonts/glyphicons-halflings-regular.woff (from www.huntsville364.org/css/bootstrap.min.css)
+17:09:15	Error: 	"Not Found" (404) at link www.huntsville364.org/fonts/glyphicons-halflings-regular.ttf (from www.huntsville364.org/css/bootstrap.min.css)
+17:09:15	Error: 	"Not Found" (404) at link www.huntsville364.org/fonts/glyphicons-halflings-regular.svg (from www.huntsville364.org/css/bootstrap.min.css)
+17:09:15	Error: 	"Not Found" (404) at link www.huntsville364.org/css/images/zoom.png (from www.huntsville364.org/css/style.css)
+17:09:15	Error: 	"Not Found" (404) at link www.huntsville364.org/css/images/close.png (from www.huntsville364.org/css/style.css)
+17:09:15	Error: 	"Not Found" (404) at link www.huntsville364.org/css/images/project_slider_right.png (from www.huntsville364.org/css/style.css)
+17:09:15	Error: 	"Not Found" (404) at link www.huntsville364.org/css/images/project_slider_left.png (from www.huntsville364.org/css/style.css)
+17:09:15	Error: 	"Not Found" (404) at link www.huntsville364.org/css/images/info.png (from www.huntsville364.org/css/style.css)
+17:09:16	Error: 	"Not Found" (404) at link www.huntsville364.org/favicon.png (from www.huntsville364.org/history.html)
+17:09:16	Warning: 	Retry after error -4 (Incorrect length (1782330 Bytes, 5104349 expected)) at link www.huntsville364.org/The Huntsville Massacre ppt.pdf (from www.huntsville364.org/history.html)
+17:10:16	Warning: 	Retry after error -4 (Incorrect length (394527 Bytes, 494646 expected)) at link www.huntsville364.org/The Huntsville Massacre text.pdf (from www.huntsville364.org/history.html)
+17:10:28	Warning: 	Retry after error -4 (Incorrect length (394056 Bytes, 499935 expected)) at link www.huntsville364.org/img/Square.png (from www.huntsville364.org/education.html)
+17:10:33	Warning: 	Retry after error -4 (Incorrect length (1970995 Bytes, 2118873 expected)) at link www.huntsville364.org/St. John the Evangelist.pdf (from www.huntsville364.org/education.html)
+17:15:30	Warning: 	Retry after error -4 (Incorrect length (525464 Bytes, 647036 expected)) at link www.huntsville364.org/Corn, wine and oil.pdf (from www.huntsville364.org/education.html)
+17:15:30	Warning: 	Retry after error -4 (Incorrect length (1182395 Bytes, 1361951 expected)) at link www.huntsville364.org/Corn, wine and oil ppt.pptx (from www.huntsville364.org/education.html)
+17:15:30	Warning: 	Retry after error -4 (Incorrect length (656722 Bytes, 736761 expected)) at link www.huntsville364.org/Masonic Calendars.pdf (from www.huntsville364.org/education.html)
+17:16:48	Warning: 	Retry after error -4 (Incorrect length (394238 Bytes, 475165 expected)) at link www.huntsville364.org/img/yorkRiteMain.png (from www.huntsville364.org/yorkrite.html)
+17:16:52	Error: 	"Not Found" (404) at link www.huntsville364.org/chapter.html (from www.huntsville364.org/yorkrite.html)
+17:16:52	Warning: 	Retry after error -4 (Incorrect length (264334 Bytes, 402584 expected)) at link www.huntsville364.org/img/chapterSymbol.png (from www.huntsville364.org/yorkrite.html)
+17:17:01	Error: 	"Not Found" (404) at link www.huntsville364.org/council.html (from www.huntsville364.org/yorkrite.html)
+17:17:01	Error: 	"Not Found" (404) at link www.huntsville364.org/commandery.html (from www.huntsville364.org/yorkrite.html)
+17:17:01	Warning: 	Retry after error -4 (Incorrect length (268748 Bytes, 402584 expected)) at link www.huntsville364.org/img/commSymbol.png (from www.huntsville364.org/yorkrite.html)
+17:17:15	Warning: 	Retry after error -4 (Incorrect length (656805 Bytes, 742924 expected)) at link www.huntsville364.org/img/crossMalta.png (from www.huntsville364.org/yorkrite.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 37 seconds : 119 links scanned, 92 files written (31371282 bytes overall) [30807934 bytes received at 24905 bytes/sec], 792310 bytes transferred using HTTP compression in 23 files, ratio 23%, 1.6 requests per connection
+(14 errors, 13 warnings, 0 messages)
